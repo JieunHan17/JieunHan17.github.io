@@ -1,0 +1,12 @@
+- name: Connect Ajou
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  link: https://github.com/amelia9981/Connect_Ajou
+  description: A hybrid mobile app for international students at Ajou Univ.
+- name: CSM
+  link: https://github.com/mancityg/CSMproject_Android
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  description: An Android mobile app for Christian teenagers
+- name: NEOMO
+  link: https://github.com/neomorphism/neomo
+  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  description: Neomorphism(neumorphism) Design Framework Open Source
