@@ -1,5 +1,5 @@
 - name: Connect Ajou
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /assets/images/connect-ajou/1.png
   link: https://github.com/amelia9981/Connect_Ajou
   description: A hybrid mobile app for international students at Ajou Univ.
 - name: CSM
