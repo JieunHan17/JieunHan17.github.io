@@ -16,8 +16,7 @@ title: NEOMO
 <br>
 <div style="text-align: left">
     <font size="7"> Tech Stack </font> <br>
-    <font size="4"> CSS, JavaScript </font> <br>
-    <font size="3"> (For the templates: HTML) </font>
+    <img src="/assets/images/NEOMO/기술요소.png">
 </div>
 
 <br>
